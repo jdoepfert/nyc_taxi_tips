@@ -14,3 +14,4 @@ core.*
 *.xml
 *.org-source
 *.pickle
+.ipynb_checkpoints/
