@@ -2,4 +2,10 @@
 Trying to find out where taxi drivers of NYC should preferably pick up
 people in order to obtain more tips.
 
-*This project is currently undere development, the files are messy  and poorly documented*
+In order to view the ipython notebooks properly in your browser, use the the
+following links:
+
+ 1) [[http://nbviewer.jupyter.org/github/jdoepfert/nyc_taxi_tips/blob/master/data_preparation.ipynb][Data preparation]]
+ 2) [[http://nbviewer.jupyter.org/github/jdoepfert/nyc_taxi_tips/blob/master/data_exploration_and_modeling.ipynb][Data exploration and modeling]]
+
+*Please note:* This project is currently undere development, the files are messy  and poorly documented.
