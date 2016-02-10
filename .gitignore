@@ -1,0 +1,16 @@
+core
+core.*
+*.html
+*~
+.#*
+\#*\#
+*.aux
+*.csv
+*.dvi
+*.log
+*.out
+*.pyc
+*.pdf
+*.xml
+*.org-source
+*.pickle

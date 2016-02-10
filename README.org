@@ -1,0 +1,5 @@
+* NYC taxi tips
+Trying to find out where taxi drivers of NYC should preferably pick up
+people in order to obtain more tips.
+
+*This project is currently undere development, the files are messy  and poorly documented*
