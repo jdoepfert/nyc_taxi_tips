@@ -1,6 +1,6 @@
 * NYC taxi tips
-Trying to find out where taxi drivers of NYC should preferably pick up
-people in order to obtain more tips, based on the [[http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml][TLC Trip Record Data]].
+Trying to find out in which regions of NYC taxi drivers should preferably pick up
+people in order to obtain more tips. The analysis is based on the [[http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml][TLC Trip Record Data]].
 
 In order to view the IPython Notebooks nicely in your browser, use the the
 following links:
@@ -8,4 +8,3 @@ following links:
  1) [[http://nbviewer.jupyter.org/github/jdoepfert/nyc_taxi_tips/blob/master/data_preparation.ipynb][Data preparation]]
  2) [[http://nbviewer.jupyter.org/github/jdoepfert/nyc_taxi_tips/blob/master/data_exploration_and_modeling.ipynb][Data exploration and modeling]]
 
-*Please note:* This project is currently at development stage, the code is messy and poorly documented.
