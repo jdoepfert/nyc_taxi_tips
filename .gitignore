@@ -15,4 +15,6 @@ core.*
 *.org-source
 *.pickle
 *.odp
+*.odp#
+preparation_mixed.ipynb
 .ipynb_checkpoints/
